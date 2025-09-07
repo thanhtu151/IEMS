@@ -1,0 +1,16 @@
+Những hàm test nào của bạn nào thì bỏ vào đây
+Ví dụ:
+tests/
+├─ ai/
+│  ├─ test_moving_avg.py
+│  ├─ test_zscore.py
+│  └─ test_summary.py
+├─ web/
+│  └─ calcPower.test.ts
+└─ iot/
+   └─ test_log_parser.py
+Test hàm AI (moving average, z-score).
+Test web logic (tính tổng điện năng từ CSV).
+Test script IoT (đọc file CSV có đủ cột).
+
+>>>>>>>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<<<<<<<<<<
