@@ -1,3 +1,4 @@
+```
 Mục tiêu: đọc dữ liệu từ cảm biến, gửi ra CSV/JSON qua serial hoặc MQTT.
 Gợi ý cấu trúc thư mục:
 iot/
@@ -9,4 +10,4 @@ iot/
 │  └─ mqtt_sub.py           # Subscribe data, lưu DB
 └─ data/
    └─ samples/              # CSV mẫu: time, voltage, current, power
->>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<
+```
