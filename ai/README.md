@@ -16,4 +16,5 @@ ai/
 │      └─ samples/         # CSV test
 ├─ requirements.txt        # pandas, numpy, scikit-learn, fastapi
 └─ .env.example            # DB_URL, MQTT_URL...
-NHẤP RAW ĐỂ XEM RÕ HƠN
+
+>>>>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<<<<<<<<
