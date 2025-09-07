@@ -1,3 +1,4 @@
+```
 Những hàm test nào của bạn nào thì bỏ vào đây
 Ví dụ:
 tests/
@@ -12,5 +13,4 @@ tests/
 Test hàm AI (moving average, z-score).
 Test web logic (tính tổng điện năng từ CSV).
 Test script IoT (đọc file CSV có đủ cột).
-
->>>>>>>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<<<<<<<<<<
+```
