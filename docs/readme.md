@@ -1,3 +1,4 @@
+```
 Nơi lưu trữ tài liệu học tập
 Gợi ý cấu trúc thư mục:
 docs/
@@ -21,4 +22,4 @@ Mỗi lần dùng GPT để xin code/gợi ý → copy prompt + đoạn code →
 Kèm comment: giữ gì, bỏ gì, vì sao.
 
 PR merge phải có gpt-log-ngày .
->>>>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<<<<<
+```
