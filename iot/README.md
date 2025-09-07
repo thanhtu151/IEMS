@@ -9,3 +9,4 @@ iot/
 │  └─ mqtt_sub.py           # Subscribe data, lưu DB
 └─ data/
    └─ samples/              # CSV mẫu: time, voltage, current, power
+>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<
