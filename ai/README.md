@@ -1,3 +1,4 @@
+```
 Mục tiêu: xử lý CSV/stream dữ liệu, phân tích & dự báo.
 Gợi ý cấu trúc thư mục:
 ai/
@@ -16,5 +17,5 @@ ai/
 │      └─ samples/         # CSV test
 ├─ requirements.txt        # pandas, numpy, scikit-learn, fastapi
 └─ .env.example            # DB_URL, MQTT_URL...
-
+```
 >>>>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<<<<<<<<
