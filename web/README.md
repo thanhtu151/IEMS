@@ -1,3 +1,4 @@
+```
 Mục tiêu: web cho người dùng cuối xem dữ liệu điện năng & AI insights.
 Gợi ý cấu trúc thư mục:
 web/
@@ -17,4 +18,4 @@ web/
 ├─ prisma/ (nếu có DB)         # Schema Postgres
 ├─ package.json
 └─ README.md
->>>>>>>> NHẤP RAW ĐỂ XEM RÕ HƠN <<<<<<<<
+```
