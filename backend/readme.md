@@ -1,4 +1,5 @@
-"Thiết kế & quản lý database (Postgres hoặc Supabase).
+""
+Thiết kế & quản lý database (Postgres hoặc Supabase).
 
 Viết API để IoT gửi dữ liệu vào, AI/Web đọc dữ liệu ra.
 
@@ -20,4 +21,4 @@ data/
 ├─ migrations/         # Lưu schema (Alembic/Prisma migration)
 ├─ requirements.txt    # fastapi, psycopg2, sqlmodel, pydantic
 └─ .env.example        # DATABASE_URL, MQTT_URL
-"
+""
